@@ -1,0 +1,29 @@
+{
+  "name": "Battle-ship",
+  "version": "1.0.0",
+  "description": "Welcome to the Galactic Battleship Project, an exciting and interactive game where players command their own spacecraft in a dynamic galactic environment. This project is part of the OdinProject course, designed to showcase skills in software development, game design, and interactive storytelling.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "deploy": "npm run build && gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YsDnG/Battle-ship.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YsDnG/Battle-ship/issues"
+  },
+  "homepage": "https://github.com/YsDnG/Battle-ship#readme",
+  "devDependencies": {
+    "css-loader": "^6.8.1",
+    "gh-pages": "^6.1.1",
+    "style-loader": "^3.3.3",
+    "webpack": "^5.89.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
