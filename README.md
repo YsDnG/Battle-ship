@@ -13,8 +13,10 @@
 ## 🌌 Project Overview
 
 **Galactic Battleship** is a modern take on the classic naval strategy game, built as part of The Odin Project curriculum. Players command their own fleet in a tactical space-themed battlefield, combining interactive gameplay with a clean UI.
-** 🎮 Previw here ---> https://ysdng.github.io/Battle-ship/
 ---
+
+## 🎮 Previw here 
+---> https://ysdng.github.io/Battle-ship/
 
 ## 🚀 Key Features
 
